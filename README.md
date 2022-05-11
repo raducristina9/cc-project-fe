@@ -62,5 +62,5 @@ https://chakra-ui.com/
 https://developers.google.com/maps/documentation
 https://docs.sendgrid.com/
 
-Pozele sunt incarcate in variante .pdf de pe online.ase
+
 
